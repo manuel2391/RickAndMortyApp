@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RickAndMortyApp</string>
+
+    <!--Characters screen-->
+    <string name="characters_title">Characters</string>
+    <string name="character_location">Location</string>
+    <string name="character_origin">Origin</string>
+    <string name="character_status">Status</string>
+    <string name="character_gender">Gender</string>
+    <string name="clear_filter">Clear filters</string>
+
+</resources>
